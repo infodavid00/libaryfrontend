@@ -1,1 +1,1 @@
-export const endpoint  = 'http://localhost:2932/'
+export const endpoint  = 'https://libarybackend.onrender.com/'
