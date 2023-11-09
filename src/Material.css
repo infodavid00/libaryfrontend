@@ -1,0 +1,18 @@
+.material-widescreensonly {
+   display: none;
+}
+.material-mobileonly {
+   display: block;
+}
+
+@media (min-width:700px) {
+.material-widescreensonly {
+   display: flex;
+}
+#material-widescreensonly-flex {
+   display: block;
+}
+.material-mobileonly {
+   display: none;
+}
+}
